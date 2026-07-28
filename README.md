@@ -1,10 +1,8 @@
-🎬 #NoFlix
+🎬 Noflix
 
 A Netflix-inspired streaming website built to practice modern web development, responsive design, and clean user interfaces.
 
-«Live preview: noflix445.netlify.app»
-
-✨ #Features
+✨ Features
 
 - 🎥 Netflix-inspired homepage
 - 📱 Responsive design for desktop and mobile
@@ -13,7 +11,7 @@ A Netflix-inspired streaming website built to practice modern web development, r
 - 🎨 Clean, modern UI inspired by popular streaming platforms
 
 
-🎯 #Purpose
+🎯 Purpose
 
 This project was created for educational purposes and as part of my web development portfolio. The goal was to recreate the look and feel of a modern streaming platform while improving my web development skills.
 
